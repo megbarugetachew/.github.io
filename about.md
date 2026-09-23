@@ -1,6 +1,6 @@
-# Hi, I'm Megbaru 👋
+Hi, I'm Megbaru 👋
 
-**Odoo Customizer & Website Developer** based in Ethiopia.
+Odoo Customizer & Website Developer** based in Ethiopia.
 
 I build practical business solutions — custom Odoo modules that solve real operational problems, and clean, responsive websites that work.
 
